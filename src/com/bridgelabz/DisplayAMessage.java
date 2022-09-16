@@ -17,6 +17,6 @@ public class DisplayAMessage {
 		String s ="Hai Everyone ";
 		System.out.println(s);
 
-	}
+	} 
 
 }
