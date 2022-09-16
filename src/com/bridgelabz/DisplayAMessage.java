@@ -8,7 +8,7 @@ package com.bridgelabz;
  *
  */
 public class DisplayAMessage {
-
+ 
 	/**
 	 * @param args
 	 */
